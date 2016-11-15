@@ -1,0 +1,9 @@
+Building Joebarack
+
+See doc/readme-qt.rst for instructions on building Joebarack-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Joebarack.
+
+See doc/build-*.txt for instructions on building joebarackd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Joebarack.
